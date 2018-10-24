@@ -1,8 +1,7 @@
 gltrip
 ======
 
-A test with opengl, particles and gravity force.  
-Works both on windows and linux, requires SDL library to be compiled.
+A test with opengl, particles and gravity force
 
 Instructions
 ============
